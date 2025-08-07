@@ -5924,6 +5924,7 @@ blockquote {
   .featured-artists-section {
     padding-left: 2em;
     padding-right: 2em;
+   
   }
 
   .featured-artists-slider {
@@ -5936,6 +5937,7 @@ blockquote {
 
   .featured-artists-section-background-block {
     width: 100%;
+   
   }
 
   .artists-slider-nav {
@@ -6288,7 +6290,19 @@ blockquote {
   }
 
   .navbar-brand-text {
-    display: none;
+    display: block;
+  }
+
+  .hero-title-text {
+    z-index: 16;
+    text-indent: 0.0625em;
+    margin-bottom: 0;
+    font-size: 6.0795em;
+    width: 100%;
+    font-weight: 200;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
   }
 
   .button-color {
