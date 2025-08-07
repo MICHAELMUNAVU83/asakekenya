@@ -6040,7 +6040,7 @@ blockquote {
   }
 
   .section-title-block {
-    margin-bottom: 2em;
+    margin-bottom: 4em;
   }
 
   .section-button-block {
@@ -6396,7 +6396,13 @@ blockquote {
   .home-news-list,
   .news-wrapper {
     grid-template-columns: 1fr;
+    
   }
+
+  .home-news-list-wrapper {
+    margin-bottom: 0.5em;
+  }
+    
 
   .hero-date-text,
   .hero-age-text {
