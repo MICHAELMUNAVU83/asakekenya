@@ -4385,7 +4385,7 @@ blockquote {
 
 .featured-artists-section-background-block {
   z-index: 0;
-  width: 33.3333%;
+  width: 37%;
   background-color: #ff8800;
   flex-direction: column;
   justify-content: flex-end;
@@ -5937,6 +5937,7 @@ blockquote {
 
   .featured-artists-section-background-block {
     width: 100%;
+  
    
   }
 
@@ -6184,6 +6185,8 @@ blockquote {
   .button-color {
     width: 100%;
     flex: 0 auto;
+    
+    
   }
 
   .footer-bottom-grid {
