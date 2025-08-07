@@ -4614,6 +4614,28 @@ blockquote {
   position: relative;
 }
 
+.footer-bottom-wrapper {
+  padding: 20px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin-top: 30px;
+}
+
+.footer-credit {
+  text-align: center;
+}
+
+.footer-credit-link {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+.footer-credit-link:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
 .partner-link-block {
   z-index: 16;
   height: 100%;
