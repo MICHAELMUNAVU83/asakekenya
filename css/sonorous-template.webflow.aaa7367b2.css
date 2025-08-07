@@ -4624,8 +4624,11 @@ blockquote {
   align-items: center;
   padding: 2.5em;
   transition: background-color 0.2s, color 0.2s;
+  color: white;
+  text-decoration: none;
   display: flex;
   position: relative;
+  text-transform: capitalize;
 }
 
 .partner-link-block:hover,
