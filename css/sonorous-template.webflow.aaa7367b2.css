@@ -4623,6 +4623,7 @@ blockquote {
   justify-content: center;
   align-items: center;
   padding: 2.5em;
+  text-decoration: uppercase;
   transition: background-color 0.2s, color 0.2s;
   color: white;
   text-decoration: none;
@@ -5925,7 +5926,6 @@ blockquote {
   .featured-artists-section {
     padding-left: 2em;
     padding-right: 2em;
-   
   }
 
   .featured-artists-slider {
@@ -5938,8 +5938,6 @@ blockquote {
 
   .featured-artists-section-background-block {
     width: 100%;
-  
-   
   }
 
   .artists-slider-nav {
@@ -6186,8 +6184,6 @@ blockquote {
   .button-color {
     width: 100%;
     flex: 0 auto;
-    
-    
   }
 
   .footer-bottom-grid {
@@ -6400,13 +6396,11 @@ blockquote {
   .home-news-list,
   .news-wrapper {
     grid-template-columns: 1fr;
-    
   }
 
   .home-news-list-wrapper {
     margin-bottom: 0.5em;
   }
-    
 
   .hero-date-text,
   .hero-age-text {
